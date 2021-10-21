@@ -1,0 +1,1 @@
+# bash-rebuild-ubuntu-image
